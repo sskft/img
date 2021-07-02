@@ -3,7 +3,7 @@
 .st-pusher{ background:#fff!important;}
 .nex_bg_cl{ background:#ffff!important;}
 .nex_rolltoptop{}
-.nex_rolltoptop a{ display:block; width:45px; height:45px; border-radius:4px; background:#F39A07 url(../index/roll_back.png) center no-repeat; background-size:28px; position:fixed; right:2%; bottom:10%; z-index:222;}
+.nex_rolltoptop a{ display:block; width:45px; height:45px; border-radius:4px; background:#F39A07 url(https://cdn.jsdelivr.net/gh/sskft/img/icon/roll_back.png) center no-repeat; background-size:28px; position:fixed; right:2%; bottom:10%; z-index:222;}
 /*slide*/
 .nex_index_focus{ width:100%; height:160px;position:relative; overflow:hidden;}
 .nex_index_focus .hd{ width:95%; height:11px;  position:absolute; z-index:1; bottom:16px; right:5%; text-align:right;  }
@@ -37,16 +37,16 @@
 .nex_index_mainspares{ padding:10px;}
 .nex_index_maintitle{ height:25px; line-height:25px; margin-bottom:15px; border-bottom:1px solid #eee; padding-bottom:10px;}
 .nex_index_maintitle span{ font-size:18px; color:#333; font-weight:500; display:inline-block; padding-left:33px; float:left;}
-.nex_index_maintitle span.nex_maintitle_icon1{ background:url(../index/topic_category_idol.png) left center no-repeat; background-size:25px;}
-.nex_index_maintitle span.nex_maintitle_icon2{ background:url(../index/topic_affair_icon.png) left center no-repeat; background-size:25px;}
-.nex_index_maintitle span.nex_maintitle_icon3{ background:url(../index/topic_category_group.png) left center no-repeat; background-size:25px;}
-.nex_index_maintitle span.nex_maintitle_icon4{ background:url(../index/topic_category_fair.png) left center no-repeat; background-size:25px;}
-.nex_index_maintitle span.nex_maintitle_icon5{ background:url(../index/topic_category_game.png) left center no-repeat; background-size:25px;}
-.nex_index_maintitle span.nex_maintitle_icon6{ background:url(../index/topic_category_funny.png) left center no-repeat; background-size:25px;}
-.nex_index_maintitle span.nex_maintitle_icon7{ background:url(../index/topic_category_hobby.png) left center no-repeat; background-size:25px;}
-.nex_index_maintitle span.nex_maintitle_icon8{ background:url(../index/topic_category_flim.png) left center no-repeat; background-size:25px;}
-.nex_index_maintitle span.nex_maintitle_icon9{ background:url(../index/topic_category_group.png) left center no-repeat; background-size:25px;}
-.nex_index_maintitle span.nex_maintitle_icon10{ background:url(../index/topic_category_comic.png) left center no-repeat; background-size:25px;}
+.nex_index_maintitle span.nex_maintitle_icon1{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/topic_category_idol.png) left center no-repeat; background-size:25px;}
+.nex_index_maintitle span.nex_maintitle_icon2{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/topic_affair_icon.png) left center no-repeat; background-size:25px;}
+.nex_index_maintitle span.nex_maintitle_icon3{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/topic_category_group.png) left center no-repeat; background-size:25px;}
+.nex_index_maintitle span.nex_maintitle_icon4{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/topic_category_fair.png) left center no-repeat; background-size:25px;}
+.nex_index_maintitle span.nex_maintitle_icon5{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/topic_category_game.png) left center no-repeat; background-size:25px;}
+.nex_index_maintitle span.nex_maintitle_icon6{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/topic_category_funny.png) left center no-repeat; background-size:25px;}
+.nex_index_maintitle span.nex_maintitle_icon7{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/topic_category_hobby.png) left center no-repeat; background-size:25px;}
+.nex_index_maintitle span.nex_maintitle_icon8{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/topic_category_flim.png) left center no-repeat; background-size:25px;}
+.nex_index_maintitle span.nex_maintitle_icon9{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/topic_category_group.png) left center no-repeat; background-size:25px;}
+.nex_index_maintitle span.nex_maintitle_icon10{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/topic_category_comic.png) left center no-repeat; background-size:25px;}
 .nex_index_maintitle a{ display:block; float:right; height:20px; width:48px; line-height:20px; text-align:center; font-size:12px; color:#333; border-radius:24px; border:1px solid #eee; background:#fafafa; margin-top:2px;}
 .nex_index_maintitle ul{ float:right; margin-top:5px;}
 .nex_index_maintitle ul em{ float:left; display:inline-block;margin:0 8px;height:10px; margin-top:5px; width:1px; background:#999;}
@@ -60,18 +60,18 @@
 .nex_member_bd ul li{ float:left; width:24%; padding:0 3%;}
 .nex_member_bd ul li.nex_member_mid{ width:33%; border-left:1px solid #eee; border-right:1px solid #eee;}
 .nex_member_bd ul li a{ display:block;}
-.nex_crown_member{ width:60px; height:63px; margin:0 auto; background:url(../index/rank_jin_icon.png) center no-repeat; position:relative; z-index:2;}
+.nex_crown_member{ width:60px; height:63px; margin:0 auto; background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/rank_jin_icon.png) center no-repeat; position:relative; z-index:2;}
 .nex_crown_member img{ width: 40px; height: 40px; border-radius: 24px; position: relative; z-index: 1; top: 11px; left: 10px;}
 .nex_member_bd ul li a h5{ height:30px; line-height:30px; text-align:center; font-size:14px; color:#333; font-weight:500; overflow:hidden;}
-.nex_silver_member{ width:60px; height:64px;margin:0 auto; background:url(../index/rank_yin_icon.png) center no-repeat; position:relative; z-index:2;}
+.nex_silver_member{ width:60px; height:64px;margin:0 auto; background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/rank_yin_icon.png) center no-repeat; position:relative; z-index:2;}
 .nex_silver_member img{ width: 40px; height: 40px; border-radius: 24px; position: relative; z-index: 1; top: 11px; left: 10px;}
-.nex_broze_member{ width:61px; height:64px; margin:0 auto;background:url(../index/rank_tong_icon.png) center no-repeat; position:relative; z-index:2;}
+.nex_broze_member{ width:61px; height:64px; margin:0 auto;background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/rank_tong_icon.png) center no-repeat; position:relative; z-index:2;}
 .nex_broze_member img{ width: 40px; height: 40px; border-radius: 24px; position: relative; z-index: 1; top: 11px; left: 10px;}
 .nex_member_btms{ text-align:center;}
 .nex_member_btms_solo{margin: 0 auto; width: 50px; overflow:hidden; padding-left: 15px; background:url(../index/pub_ic24_time.png) 20% center no-repeat; background-size:15px;}
 .nex_member_btms span{ font-size:12px; color:#999; margin:0 5px; padding-left:22px;}
-.nex_member_btms span.nex_member_score{background:url(../index/pub_ic24_time.png) left center no-repeat; background-size:15px;}
-.nex_member_btms span.nex_member_threads{background:url(../index/pub_ic24_fire.png) left center no-repeat; background-size:15px;}
+.nex_member_btms span.nex_member_score{background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/pub_ic24_time.png) left center no-repeat; background-size:15px;}
+.nex_member_btms span.nex_member_threads{background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/pub_ic24_fire.png) left center no-repeat; background-size:15px;}
 
 .nex_zixunlist{}
 .nex_zixunlist ul li{ border-bottom:1px solid #eee; padding-bottom:0px; margin-bottom:5px;}
@@ -87,9 +87,9 @@
 .nex_zxbtms{}
 .nex_zxbtmpic{ float:left; width:110px; height:70px; position:relative;}
 .nex_zxbtmpic i{ display:block; width:30px; height:30px; position:absolute; top:0; left:0;}
-.nex_zxbtmpic i.nex_zxnum1{ background:url(../index/banana_rank_no1.png) center no-repeat; background-size:30px;}
-.nex_zxbtmpic i.nex_zxnum2{ background:url(../index/banana_rank_no2.png) center no-repeat; background-size:30px;}
-.nex_zxbtmpic i.nex_zxnum3{ background:url(../index/banana_rank_no3.png) center no-repeat; background-size:30px;}
+.nex_zxbtmpic i.nex_zxnum1{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/banana_rank_no1.png) center no-repeat; background-size:30px;}
+.nex_zxbtmpic i.nex_zxnum2{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/banana_rank_no2.png) center no-repeat; background-size:30px;}
+.nex_zxbtmpic i.nex_zxnum3{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/banana_rank_no3.png) center no-repeat; background-size:30px;}
 .nex_zxbtmpic img{height:110px;width:110px; border-radius:4px;}
 .nex_zxbtminfos{ padding-left:120px;}
 .nex_zxsums{ height:38px; line-height:19px; font-size:12px; color:#666;  margin-bottom:17px;}
@@ -104,8 +104,8 @@
 .nex_mustsee_large img{ width:100%; height:105px;}
 .nex_mustsee_inters{ padding:0 5%; width:90%; height:30px; line-height:30px; background: -webkit-linear-gradient(top,rgba(0,0,0,0) 0,rgba(0,0,0,.6) 100%); position:absolute; bottom:0; left:0; border-radius:0 0 4px 4px;}
 .nex_mustsee_inters span{ display:inline-block; margin-right:15px; font-size:12px; color:#fff; height:30px; line-height:30px;}
-.nex_mustsee_inters span.nex_mustsee_view{ background:url(../index/icon_video_plays.png) left center no-repeat; background-size:16px;padding-left:25px; }
-.nex_mustsee_inters span.nex_mustsee_reply{ background:url(../index/icon_video_danmus.png) left center no-repeat; background-size:16px;padding-left:25px; }
+.nex_mustsee_inters span.nex_mustsee_view{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/icon_video_plays.png) left center no-repeat; background-size:16px;padding-left:25px; }
+.nex_mustsee_inters span.nex_mustsee_reply{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/icon_video_danmus.png) left center no-repeat; background-size:16px;padding-left:25px; }
 .nex_mustsee_btms{}
 .nex_mustsee_btms h5{ height:50px; line-height:20px; margin:10px 0 10px 0; font-size:14px; color:#333; font-weight:500;}
 
@@ -121,8 +121,8 @@
 .nex_big_videokj_large img{ width:100%; height:165px;}
 .nex_big_videokj_inters{ padding:0 5%; width:90%; height:30px; line-height:30px; background: -webkit-linear-gradient(top,rgba(0,0,0,0) 0,rgba(0,0,0,.6) 100%); position:absolute; bottom:0; left:0; border-radius:0 0 4px 4px;}
 .nex_big_videokj_inters span{ display:inline-block; margin-right:15px; font-size:12px; color:#fff; height:30px; line-height:30px;}
-.nex_big_videokj_inters span.nex_mustsee_view{ background:url(../index/icon_video_plays.png) left center no-repeat; background-size:16px;padding-left:25px; }
-.nex_big_videokj_inters span.nex_mustsee_reply{ background:url(../index/icon_video_danmus.png) left center no-repeat; background-size:16px;padding-left:25px; }
+.nex_big_videokj_inters span.nex_mustsee_view{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/icon_video_plays.png) left center no-repeat; background-size:16px;padding-left:25px; }
+.nex_big_videokj_inters span.nex_mustsee_reply{ background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/icon_video_danmus.png) left center no-repeat; background-size:16px;padding-left:25px; }
 .nex_big_videokj_btms{ margin:8px 0 10px 0; }
 .nex_big_videokj_btms h5{ max-height:38px; line-height:19px; overflow:hidden;font-size:14px; color:#333; font-weight:500;}
 .nex_common_videos ul li.nex_small_videokj{float:left;width:47.5%; margin:0 2.5% 2.5% 0;}
