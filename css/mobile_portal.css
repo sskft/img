@@ -68,7 +68,7 @@
 .nex_broze_member{ width:61px; height:64px; margin:0 auto;background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/rank_tong_icon.png) center no-repeat; position:relative; z-index:2;}
 .nex_broze_member img{ width: 40px; height: 40px; border-radius: 24px; position: relative; z-index: 1; top: 11px; left: 10px;}
 .nex_member_btms{ text-align:center;}
-.nex_member_btms_solo{margin: 0 auto; width: 50px; overflow:hidden; padding-left: 15px; background:url(../index/pub_ic24_time.png) 20% center no-repeat; background-size:15px;}
+.nex_member_btms_solo{margin: 0 auto; width: 50px; overflow:hidden; padding-left: 15px; background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/pub_ic24_time.png) 20% center no-repeat; background-size:15px;}
 .nex_member_btms span{ font-size:12px; color:#999; margin:0 5px; padding-left:22px;}
 .nex_member_btms span.nex_member_score{background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/pub_ic24_time.png) left center no-repeat; background-size:15px;}
 .nex_member_btms span.nex_member_threads{background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/pub_ic24_fire.png) left center no-repeat; background-size:15px;}
@@ -130,7 +130,7 @@
 .nex_upers{ float:left;}
 .nex_upers img{ display:inline-block; width:22px; height:22px; float:left; border-radius:100%;}
 .nex_upers span{ display:inline-block; float:left; margin-left:10px; height:22px; line-height:22px; font-size:12px; color:#666;}
-.nex_uperdate{ float:right; padding-left:20px; font-size:12px; color:#999; height:22px; line-height:22px; background:url(../index/icon_video_dates.png) left center no-repeat; background-size:14px;}
+.nex_uperdate{ float:right; padding-left:20px; font-size:12px; color:#999; height:22px; line-height:22px; background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/icon_video_dates.png) left center no-repeat; background-size:14px;}
 
 .nex_comicsbox{}
 .nex_comicsbox ul li,.nex_coserpiv ul li{ display:none;}
@@ -144,7 +144,7 @@
 .nex_coserbtmsl{ float:left;}
 .nex_coserbtmsl img{ display:block; float:left; width:20px; height:20px; border-radius:100%;}
 .nex_coserbtmsl span{ display:block; float:left; max-width:50px; overflow:hidden;text-overflow:ellipsis; white-space:nowrap;  margin-left:10px; height:20px; line-height:20px; font-size:12px; color:#fff;}
-.nex_coserbtmsr{ float:right; height:20px; line-height:20px; font-size:12px; color:#fff; padding-left:22px; background:url(../index/ic_home_item_video_views.png) left center no-repeat; background-size:15px;}
+.nex_coserbtmsr{ float:right; height:20px; line-height:20px; font-size:12px; color:#fff; padding-left:22px; background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/ic_home_item_video_views.png) left center no-repeat; background-size:15px;}
 
 .nex_comicsbox{ }
 .nex_comics_box{}
@@ -156,8 +156,8 @@
 .nex_comic_bds{ margin-top:10px;}
 .nex_comic_bds h5{ height:38px; line-height:19px; overflow:hidden; margin-bottom:5px; font-size:12px; color:#333; font-weight:500;}
 .nex_comics_details{ height:20px; line-height:20px; overflow:hidden;}
-.nex_uploader{ float:left; max-width:80px; padding-left:22px; height:20px; line-height:20px; font-size:12px; color:#666; overflow:hidden;text-overflow:ellipsis; white-space:nowrap;  background:url(../index/upload.png) left center no-repeat; background-size:15px;}
-.nex_uploadnums{ float:right; text-align:right; max-width:60px; padding-left:22px; height:20px; line-height:20px; font-size:12px; color:#999; background:url(../index/ic_fire.png) left center no-repeat; background-size:15px;}
+.nex_uploader{ float:left; max-width:80px; padding-left:22px; height:20px; line-height:20px; font-size:12px; color:#666; overflow:hidden;text-overflow:ellipsis; white-space:nowrap;  background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/upload.png) left center no-repeat; background-size:15px;}
+.nex_uploadnums{ float:right; text-align:right; max-width:60px; padding-left:22px; height:20px; line-height:20px; font-size:12px; color:#999; background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/ic_fire.png) left center no-repeat; background-size:15px;}
 
 .nex_links{}
 .nex_links ul{}
