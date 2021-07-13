@@ -17,7 +17,7 @@
 .nex_rollingpost{ margin:10px; height:40px; line-height:40px; overflow:hidden; padding-left:30px; background:url(https://cdn.jsdelivr.net/gh/sskft/img/icon/roll.png) left center no-repeat; background-size:22px;}
 .nex_rollingpost ul.nex_rollinginter{}
 .nex_rollingpost ul.nex_rollinginter li{height:40px; line-height:40px; overflow:hidden;}
-.nex_rollingpost ul.nex_rollinginter li a{ font-size:15px; color:#333; font-weight:500;}
+.nex_rollingpost ul.nex_rollinginter li a{ font-size:14px; color:#333; font-weight:500;}
 
 .nex_index_sort{ margin:10px; overflow:hidden;}
 .nex_index_sort ul{ width:103%;}
